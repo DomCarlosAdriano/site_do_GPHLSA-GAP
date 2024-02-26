@@ -19,7 +19,7 @@ Meu professor de história fundou um gropo de pesquisa chamado "Grupo de Pesquis
 <br>
 
 <p align="center">
-  <img alt="visão do site" src="" width="100%">
+  <img alt="visão do site" src="https://github.com/DomCarlosAdriano/site_do_GPHLSA-GAP/blob/master/.github/visao%20do%20site.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -37,12 +37,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site que tem como objetivo apresentar o grupo de pesquisa "Grupo de Pesquisa Histórica Luiz Savio de Almeida" e disponibilizar a "Revista Digital Documento Histórico" para leitura gratuita.
+O site tem como objetivo apresentar o grupo de pesquisa "Grupo de Pesquisa Histórica Luiz Savio de Almeida" e disponibilizar a "Revista Digital Documento Histórico" para leitura gratuita.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://grupodepesquisaluizsaviodealmeida.netlify.app/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](). 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://grupodepesquisaluizsaviodealmeida.netlify.app/). 
 
 
